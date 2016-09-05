@@ -10,7 +10,7 @@ Interface language: Ukrainian. <br>
 Only for OS Windows.<br>
 Download folder:<br>
 ```
-  bin/Release/  <br>
+  bin/Release/
 ```
 after start "Дипломний проект.exe" file.
 
