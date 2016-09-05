@@ -1,10 +1,15 @@
 # PuzzleGame
 Graduation project in college. 
 
-## Language
-Development environment: Visual Studio. <br>
-Programming language: VisualBasic.NET. <br>
-Interface language: Ukrainian. <br>
+## Start game
+Only for OS Windows.<br>
+Download folder:<br>
+```
+  bin/Release/  <br>
+```
+after start Дипломний проект.exe file.
+
+
 
 ## Features
 The game has 3 types of difficulty from easy to very difficult. <br>
