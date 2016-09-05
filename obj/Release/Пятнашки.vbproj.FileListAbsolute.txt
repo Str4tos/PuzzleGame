@@ -1,0 +1,14 @@
+C:\Users\Денис\Desktop\Курсовой проект\WindowsApplication1\bin\Release\Дипломний проект.exe.config
+C:\Users\Денис\Desktop\Курсовой проект\WindowsApplication1\bin\Release\Дипломний проект.exe
+C:\Users\Денис\Desktop\Курсовой проект\WindowsApplication1\bin\Release\Дипломний проект.pdb
+C:\Users\Денис\Desktop\Курсовой проект\WindowsApplication1\bin\Release\Дипломний проект.xml
+C:\Users\Денис\Desktop\Курсовой проект\WindowsApplication1\obj\Release\ДипломнийПроект.Form1.resources
+C:\Users\Денис\Desktop\Курсовой проект\WindowsApplication1\obj\Release\ДипломнийПроект.Form2.resources
+C:\Users\Денис\Desktop\Курсовой проект\WindowsApplication1\obj\Release\ДипломнийПроект.Form3.resources
+C:\Users\Денис\Desktop\Курсовой проект\WindowsApplication1\obj\Release\ДипломнийПроект.Resources.resources
+C:\Users\Денис\Desktop\Курсовой проект\WindowsApplication1\obj\Release\Пятнашки.vbproj.GenerateResource.Cache
+C:\Users\Денис\Desktop\Курсовой проект\WindowsApplication1\obj\Release\Дипломний проект.exe
+C:\Users\Денис\Desktop\Курсовой проект\WindowsApplication1\obj\Release\Дипломний проект.xml
+C:\Users\Денис\Desktop\Курсовой проект\WindowsApplication1\obj\Release\Дипломний проект.pdb
+C:\Users\Денис\Desktop\Курсовой проект\WindowsApplication1\obj\Release\ДипломнийПроект.Form4.resources
+C:\Users\Денис\Desktop\Курсовой проект\WindowsApplication1\obj\Release\Пятнашки.vbprojResolveAssemblyReference.cache

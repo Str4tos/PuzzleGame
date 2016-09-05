@@ -1,0 +1,832 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Дипломнийпроект
+</name>
+</assembly>
+<members>
+<member name="P:ДипломнийПроект.My.Resources.Resources.ResourceManager">
+	<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources.Culture">
+	<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._1">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._1_1">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._1_2">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._1_3">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._1_4">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._1_5">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._1_6">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._1_7">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._1_8">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._1_9">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._10">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._11">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._12">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._13">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._14">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._15">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._16">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._2">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._2_1">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._2_2">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._2_3">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._2_4">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._2_5">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._2_6">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._2_7">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._2_8">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._2_9">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._21">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._210">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._211">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._212">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._213">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._214">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._215">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._216">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._22">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._23">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._24">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._25">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._26">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._27">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._28">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._29">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._3">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._3_1">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._3_2">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._3_3">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._3_4">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._3_5">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._3_6">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._3_7">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._3_8">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._3_9">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._31">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._310">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._311">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._312">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._313">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._314">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._315">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._316">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._32">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._33">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._34">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._35">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._36">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._37">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._38">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._39">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._4">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._4_1">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._4_2">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._4_3">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._4_4">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._4_5">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._4_6">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._4_7">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._4_8">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._4_9">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._41">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._410">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._411">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._412">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._413">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._414">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._415">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._416">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._42">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._43">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._44">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._45">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._46">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._47">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._48">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._49">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._5">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._5_1">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._5_2">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._5_3">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._5_4">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._5_5">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._5_6">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._5_7">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._5_8">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._5_9">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._51">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._510">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._511">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._512">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._513">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._514">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._515">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._516">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._52">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._53">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._54">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._55">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._56">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._57">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._58">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._59">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._6">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._6_1">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._6_2">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._6_3">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._6_4">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._6_5">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._6_6">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._6_7">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._6_8">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._6_9">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._61">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._610">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._611">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._612">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._613">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._614">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._615">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._616">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._62">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._63">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._64">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._65">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._66">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._67">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._68">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._69">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._7">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._7_1">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._7_2">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._7_3">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._7_4">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._7_5">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._7_6">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._7_7">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._7_8">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._7_9">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._71">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._710">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._711">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._712">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._713">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._714">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._715">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._716">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._72">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._73">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._74">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._75">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._76">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._77">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._78">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._79">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._8">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._8_1">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._8_2">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._8_3">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._8_4">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._8_5">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._8_6">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._8_7">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._8_8">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._8_9">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._81">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._810">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._811">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._812">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._813">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._814">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._815">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._816">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._82">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._83">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._84">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._85">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._86">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._87">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._88">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._89">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources._9">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources.SavePoints">
+	<summary>
+  Ищет локализованную строку, похожую на .
+</summary>
+</member><member name="P:ДипломнийПроект.My.Resources.Resources.zero">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="T:ДипломнийПроект.My.Resources.Resources">
+	<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+</members>
+</doc>
