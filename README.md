@@ -1,6 +1,7 @@
 # PuzzleGame
-Graduation project on college. 
-I write code from scratch.
+Graduation project on college. <br>
+I write code from scratch.<br>
+Release date: year 2014.
 
 ## Language
 Development environment: Visual Studio. <br>
