@@ -33,4 +33,4 @@ Scores are calculated and assigned a place in the record table.
 ![1](https://cloud.githubusercontent.com/assets/22005013/18249052/a46f4346-7384-11e6-8d9d-334f6dd77f7d.png)
 
 ## Documentation
-Detailed documentation is presented in the form of notes coursework.
+Detailed documentation is presented in the form of notes diploma.
